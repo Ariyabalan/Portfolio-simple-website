@@ -1,21 +1,19 @@
-# My Portfolio Website
+# My Portfolio
 
-Welcome to the GitHub repository for my personal portfolio website! This project features a simple and clean design with two main pages: Home and Contact.
+Welcome to the GitHub repository for my personal portfolio website! This project is a showcase of my skills and projects, presented through a minimalistic and responsive design. The portfolio consists of two main pages:
+
+## Pages
+
+1. **Home:**
+   - Explore my skills, projects, and experiences.
+
+2. **Contact:**
+   - Find out how to connect with me or inquire about collaboration opportunities.
 
 ## Technologies Used
 
 - HTML5
 - CSS3
-
-## Pages
-
-1. **Home:**
-   - Showcase of my skills, projects, and experiences.
-   - [Link to Home Page](./home.html)
-
-2. **Contact:**
-   - Information on how to get in touch with me.
-   - [Link to Contact Page](./contact.html)
 
 ## How to Use
 
@@ -24,4 +22,4 @@ Welcome to the GitHub repository for my personal portfolio website! This project
    ```bash
    git clone https://github.com/your-username/your-portfolio.git
 
-Thanks for visting portfolio website!!
+ THANKS FOR VISITING PORTFOLIO WBSITE :)
