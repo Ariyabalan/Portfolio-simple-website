@@ -15,11 +15,4 @@ Welcome to the GitHub repository for my personal portfolio website! This project
 - HTML5
 - CSS3
 
-## How to Use
-
-1. Clone the repository to your local machine:
-
-   ```bash
-   git clone https://github.com/your-username/your-portfolio.git
-
  THANKS FOR VISITING PORTFOLIO WBSITE :)
